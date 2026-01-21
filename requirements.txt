@@ -10,5 +10,5 @@ scipy==1.11.4
 seaborn==0.13.0
 sktime==0.24.1
 tsfresh==0.20.1
-tensorflow==2.15.0.post1
+tensorflow==2.15.1
 xgboost==2.0.2
